@@ -12,6 +12,9 @@ Um jogo da cobrinha clássico feito em Python utilizando a biblioteca **Pygame**
 ### 📌 Pré-requisitos
 Certifique-se de ter o **Python 3.10+** instalado. Caso não tenha, baixe [aqui](https://www.python.org/downloads/).
 
+### 🎮 Como Executar na maquina Windows
+Abra a pasta Dist e execute o arquivo .exe para executar o game já compilado.
+
 ### ⚡ Instalando dependências
 Abra o terminal e execute:
 
